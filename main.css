@@ -102,7 +102,7 @@ transition: all .3s ease-in-out}
 .widget-content .item-content{padding: 10px 0}
 .widget-content .item-thumbnail{padding: 3px;border: 1px solid #ccc;border-radius: 4px}
 .widget-content .item-thumbnail img {padding-right: 0;width: 100px;height:110px}
-.list-label-widget-content ul li{padding: 10px;background-color: #353b48;border-radius: 4px;margin-bottom: 10px}
+.list-label-widget-content ul li{margin-top:15px;padding: 10px;background-color: #353b48;border-radius: 4px;margin-bottom: 10px}
 .list-label-widget-content ul li:before{
     content: "\f100";
     display: inline-block;
